@@ -18,6 +18,7 @@ Describe the project scope of work for the spring semester.
 Review general work plan and its allocation among the team members.
 
 Here are a few links on the topic we discussed:
+
 https://securitytoday.com/blogs/reaction/2018/02/Securing-the-Physical-Safety-of-Data-with-Rack-Level-Access-Control.aspx
 
 https://www.datacenterdynamics.com/opinions/data-center-physical-hacks-how-safeguard-equipment-cabinets/
